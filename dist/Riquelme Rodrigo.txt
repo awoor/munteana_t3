@@ -1,0 +1,13 @@
+Numar chitanta:631222
+Informatii client
+Nume:Riquelme
+Prenume:Rodrigo
+CNP:132
+Produse cumparate:
+nume          pret 	buc	cod
+televizor    400         1    12
+stick    40         3    19
+total:520
+
+
+Semnatura:

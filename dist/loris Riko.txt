@@ -1,0 +1,13 @@
+Numar chitanta:390030
+Informatii client
+Nume:loris
+Prenume:Riko
+CNP:433
+Produse cumparate:
+nume          pret 	buc	cod
+televizor    400         2    12
+monitor    500         2    15
+total:1800
+
+
+Semnatura:

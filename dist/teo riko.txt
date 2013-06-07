@@ -1,0 +1,16 @@
+Numar chitanta:329148
+Informatii client
+Nume:teo
+Prenume:riko
+CNP:3334
+Produse cumparate:
+nume          pret 	buc	cod
+scanner    500         1    17
+scanner    500         1    17
+memorii    200         1    18
+memorii    200         3    18
+memorii    200         3    18
+total:2400
+
+
+Semnatura:

@@ -1,0 +1,22 @@
+Numar chitanta:596666
+Informatii client
+Nume:tewaf
+Prenume:ifsada
+CNP:1234
+Produse cumparate:
+nume          pret 	buc	cod
+laptop    2000         1    14
+laptop    2000         1    14
+laptop    2000         1    14
+laptop    2000         1    14
+laptop    2000         1    14
+laptop    2000         1    14
+laptop    2000         5    14
+laptop    2000         2    14
+laptop    2000         2    14
+laptop    2000         2    14
+imprimanta    400         2    16
+total:20800
+
+
+Semnatura:

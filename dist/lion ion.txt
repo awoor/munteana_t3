@@ -1,0 +1,18 @@
+Numar chitanta:311080
+Informatii client
+Nume:lion
+Prenume:ion
+CNP:132
+Produse cumparate:
+nume          pret 	buc	cod
+imprimanta    400         1    16
+imprimanta    400         1    16
+imprimanta    400         2    16
+imprimanta    400         2    16
+imprimanta    400         2    16
+imprimanta    400         2    16
+imprimanta    400         2    16
+total:4000
+
+
+Semnatura:
